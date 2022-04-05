@@ -1,0 +1,23 @@
+{
+"Data13TeV_2018A_SingleMuon" : [1, 1, "/SingleMuon/Run2018A-17Sep2018-v2/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018B_SingleMuon" : [1, 1, "/SingleMuon/Run2018B-17Sep2018-v1/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018C_SingleMuon" : [1, 1, "/SingleMuon/Run2018C-17Sep2018-v1/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018D_SingleMuon" : [1, 1, "/SingleMuon/Run2018D-22Jan2019-v2/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018A_MuonEG"     : [1, 1, "/MuonEG/Run2018A-17Sep2018-v1/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018B_MuonEG"     : [1, 1, "/MuonEG/Run2018B-17Sep2018-v1/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018C_MuonEG"     : [1, 1, "/MuonEG/Run2018C-17Sep2018-v1/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018D_MuonEG"     : [1, 1, "/MuonEG/Run2018D-PromptReco-v2/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018A_EGamma"     : [1, 1, "/EGamma/Run2018A-17Sep2018-v2/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018B_EGamma"     : [1, 1, "/EGamma/Run2018B-17Sep2018-v1/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018C_EGamma"     : [1, 1, "/EGamma/Run2018C-17Sep2018-v1/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018D_EGamma"     : [1, 1, "/EGamma/Run2018D-22Jan2019-v2/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018A_DoubleMuon" : [1, 1, "/DoubleMuon/Run2018A-17Sep2018-v2/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018B_DoubleMuon" : [1, 1, "/DoubleMuon/Run2018B-17Sep2018-v1/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018C_DoubleMuon" : [1, 1, "/DoubleMuon/Run2018C-17Sep2018-v1/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018D_DoubleMuon" : [1, 1, "/DoubleMuon/Run2018D-PromptReco-v2/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018A_JetHT"      : [1, 1, "/JetHT/Run2018A-17Sep2018-v1/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018B_JetHT"      : [1, 1, "/JetHT/Run2018B-17Sep2018-v1/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018C_JetHT"      : [1, 1, "/JetHT/Run2018C-17Sep2018-v1/MINIAOD", "Data", 1, false, false, 0],
+"Data13TeV_2018D_JetHT"      : [1, 1, "/JetHT/Run2018D-PromptReco-v2/MINIAOD", "Data", 1, false, false, 0]
+}
+
